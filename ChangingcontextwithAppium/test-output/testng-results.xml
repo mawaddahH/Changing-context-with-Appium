@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T01:34:03 AST" name="Default suite" finished-at="2022-08-24T01:35:02 AST" duration-ms="58295">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T01:34:03 AST" name="Default test" finished-at="2022-08-24T01:35:02 AST" duration-ms="58295">
+      <class name="ass1W11D4.ChangingcontextwithAppium.TestAss1W11D4">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ass1W11D4.ChangingcontextwithAppium.TestAss1W11D4@72967906]" started-at="2022-08-24T01:33:49 AST" name="setUp" finished-at="2022-08-24T01:34:03 AST" duration-ms="14485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test1()[pri:0, instance:ass1W11D4.ChangingcontextwithAppium.TestAss1W11D4@72967906]" started-at="2022-08-24T01:34:04 AST" name="Test1" finished-at="2022-08-24T01:35:01 AST" duration-ms="57608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ass1W11D4.ChangingcontextwithAppium.TestAss1W11D4@72967906]" started-at="2022-08-24T01:35:01 AST" name="tearDown" finished-at="2022-08-24T01:35:02 AST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ass1W11D4.ChangingcontextwithAppium.TestAss1W11D4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
